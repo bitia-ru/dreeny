@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_DREENY_PATH/package/grub_config/Config.in"

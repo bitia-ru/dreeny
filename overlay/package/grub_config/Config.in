@@ -1,0 +1,4 @@
+config BR2_PACKAGE_GRUB_CONFIG
+        bool "grub_config"
+        help
+          http://globinform.ru/

@@ -1,0 +1,7 @@
+config Dreeny_BOARD_NAME
+    string "Board name (DON'T TOUCH)"
+    default default
+
+source "$BR2_EXTERNAL_DREENY_PATH/package/Config.in"
+source "$BR2_EXTERNAL_DREENY_PATH/package/Config.in.host"
+
